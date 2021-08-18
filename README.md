@@ -6,5 +6,5 @@
 pip3 install discord.py
 
 cd
-git clone 
+git clone https://github.com/lxRbckl/Project-PasCam-6.git
 ```
