@@ -14,7 +14,7 @@ from os import getcwd, listdir, remove, mkdir
 
 # Declaration <
 PasCam = Bot(command_prefix = '', intents = Intents.all())
-token = 'NzUyNjczMTQ1MTM1MTY5NjU3.X1bDfQ.DMFSdUCa5QFwBC7UC6h78vwhM-o'
+token = ''
 
 # >
 
