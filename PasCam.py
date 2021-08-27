@@ -15,7 +15,7 @@ from string import ascii_letters as letters
 # Declaration <
 path = path.realpath(__file__)[:-10]
 PasCam = Bot(command_prefix = '', intents = Intents.all())
-token = 'NzUyNjczMTQ1MTM1MTY5NjU3.X1bDfQ.E1GJAKAxsCl5y0uv14ujnIYDeus'
+token = ''
 
 # >
 
