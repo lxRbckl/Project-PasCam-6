@@ -6,16 +6,16 @@ from random import choice
 from string import digits
 from discord import Intents
 from discord.ext.commands import Bot
+from os import path, listdir, remove, mkdir
 from string import ascii_letters as letters
-from os import getcwd, listdir, remove, mkdir
 
 # >
 
 
 # Declaration <
-path = ''
+path = path.realpath(__file__)[:-10]
 PasCam = Bot(command_prefix = '', intents = Intents.all())
-token = ''
+token = 'NzUyNjczMTQ1MTM1MTY5NjU3.X1bDfQ.E1GJAKAxsCl5y0uv14ujnIYDeus'
 
 # >
 
